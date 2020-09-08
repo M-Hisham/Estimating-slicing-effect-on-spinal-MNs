@@ -10,7 +10,7 @@ This readme file is to assist in running the simulations published in the modeli
 1. Install the neuron simulator with Python 2
 2. Compile the mod files.
 
-# Files description
+## Files description
 * hoc files are for the full and the sliced models of MN#3
 * mod. files are for the activa channels included in the cell models
 * .py files are for adding the dendritic CaPIC channels.
