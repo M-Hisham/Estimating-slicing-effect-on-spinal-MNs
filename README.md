@@ -3,11 +3,11 @@ This readme file is to assist in running the simulations published in the modeli
 
 ## Platform:
 * Files are written in hoc & Python. 
-* requires Python2 to run part of the code
+* Requires Python2.7
 * Run the simulations on the  [NEURON simulator](https://neuron.yale.edu/neuron/what_is_neuron) platform
 
 ## Requirments:
-1. Install the neuron simulator with Python 2
+1. [Install] the neuron simulator with Python 2 (https://www.neuron.yale.edu/neuron/static/py_doc/programming/python.html)
 2. Compile the mod files.
 
 ## Files description
