@@ -1,4 +1,4 @@
-# Estimating-the-effects-of-slicing-on-the-electrophysiological-properties-of-spinal-motoneurons-under
+# Estimating-the-effects-of-slicing-on-the-electrophysiological-properties-of-spinal-motoneurons-under-normal-and-disease-conditions
 This readme file is to assist in running the simulations published in the modeling study entitled <b><i>“Estimating the effects of slicing on the electrophysiological properties of spinal motoneurons under normal and disease conditions”</i></b> by Mohamed H. Mousa and Sherif M. Elbasiouny.
 
 ## Platform:
