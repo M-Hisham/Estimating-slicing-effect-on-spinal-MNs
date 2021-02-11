@@ -7,10 +7,11 @@ This readme file is to assist in running the simulations published in the modeli
 * Run the simulations on the  [NEURON simulator](https://neuron.yale.edu/neuron/what_is_neuron) platform
 
 ## Requirments:
-1. [Install](https://www.neuron.yale.edu/neuron/static/py_doc/programming/python.html) the neuron simulator with Python 2 
+1. [Install](https://www.neuron.yale.edu/neuron/static/py_doc/programming/python.html) the neuron simulator with Python 2.7 
 2. Compile the mod files.
 
 ## Files description
-* .hoc files are for the full and the sliced models of MN#3
+* .hoc files are for the full and the sliced models of MN#3 from [Amendola and Durand (2008)](https://onlinelibrary.wiley.com/doi/full/10.1002/cne.21818)
 * .mod files are for the active channels included in the cell models
-* .py files are for adding the dendritic CaPIC channels.
+* CaPIC.py files are for adding the dendritic CaPIC channels.
+* Auto_start.py is to load the intact or the sliced cell, and add the CaPIC channels
