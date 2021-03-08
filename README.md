@@ -15,3 +15,7 @@ This readme file is to assist in running the simulations published in the modeli
 * .mod files are for the active channels included in the cell models
 * CaPIC.py files are for adding the dendritic CaPIC channels.
 * Auto_start.py is to load the intact or the sliced cell, and add the CaPIC channels
+
+
+[![DOI](https://zenodo.org/badge/293670752.svg)](https://zenodo.org/badge/latestdoi/293670752)
+
