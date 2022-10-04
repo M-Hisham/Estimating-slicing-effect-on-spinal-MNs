@@ -5,6 +5,7 @@ This readme file is to assist in running the simulations published in the modeli
 * Files are written in hoc & Python. 
 * Requires Python2.7
 * Run the simulations on the  [NEURON simulator](https://neuron.yale.edu/neuron/what_is_neuron) platform
+*update*: Python 3, can be used after converting the files using 2to3 (https://docs.python.org/3/library/2to3.html)
 
 ## Requirments:
 1. [Install](https://www.neuron.yale.edu/neuron/static/py_doc/programming/python.html) the neuron simulator with Python 2.7 
@@ -16,6 +17,8 @@ This readme file is to assist in running the simulations published in the modeli
 * CaPIC.py files are for adding the dendritic CaPIC channels.
 * Auto_start.py is to load the intact or the sliced cell, and add the CaPIC channels
 
+## Published article
+* [JNP Article](https://journals.physiology.org/doi/full/10.1152/jn.00543.2020)
 
 [![DOI](https://zenodo.org/badge/293670752.svg)](https://zenodo.org/badge/latestdoi/293670752)
 
