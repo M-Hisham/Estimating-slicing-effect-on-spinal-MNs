@@ -1,12 +1,17 @@
 # Estimating-the-effects-of-slicing-on-the-electrophysiological-properties-of-spinal-motoneurons-under-normal-and-disease-conditions
 This readme file is to assist in running the simulations published in the modeling study entitled <b><i>“Estimating the effects of slicing on the electrophysiological properties of spinal motoneurons under normal and disease conditions”</i></b> by Mohamed H. Mousa and Sherif M. Elbasiouny.
 
+### Paper Overview:
+The research paper investigates the impact of tissue slicing on the measurement of electrophysiological properties using a sharp electrode. The study explores this phenomenon in both healthy and diseased morphologies of spinal motorneurons.
+
+<span style="display: block; margin-left: auto; margin-right: auto; width: 80%;">![Graphical illustration](Cell_slicing.png "Model structure")</span> 
+
 ## Platform:
 * Files are written in hoc & Python. 
-* Requires Python2.7
-* Run the simulations on the  [NEURON simulator](https://neuron.yale.edu/neuron/what_is_neuron) platform
+* Requires Python2.7.
+* Run the simulations on the  [NEURON simulator](https://neuron.yale.edu/neuron/what_is_neuron) platform.
 
-*update*: Python 3, can be used after converting the files using [2to3](https://docs.python.org/3/library/2to3.html)
+*update*: Python 3, can be used after converting the files using the [2to3](https://docs.python.org/3/library/2to3.html) package.
 
 ## Requirments:
 1. [Install](https://www.neuron.yale.edu/neuron/static/py_doc/programming/python.html) the neuron simulator with Python 2.7 
